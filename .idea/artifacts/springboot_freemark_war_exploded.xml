@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springboot_freemark:war exploded">
+    <output-path>$PROJECT_DIR$/springboot_freemark/target/springboot_freemark</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springboot_freemark" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/springboot_freemark/target/springboot_freemark/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="springboot_freemark/web/Web" />
+    </root>
+  </artifact>
+</component>

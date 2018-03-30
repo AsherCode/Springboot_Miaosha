@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot_restfull:war">
+    <output-path>$PROJECT_DIR$/springboot_restfull/target</output-path>
+    <root id="archive" name="springboot_restfull-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot_restfull:war exploded" />
+    </root>
+  </artifact>
+</component>
